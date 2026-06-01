@@ -1,1 +1,1 @@
-This resources for day-1
+This are resources for day-1
